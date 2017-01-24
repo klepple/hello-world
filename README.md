@@ -1,4 +1,2 @@
 # hello-world
-Hey so this is neat
-
-yup im still figuring this out rn
+Hi! Welcome to my GitHub, the place where my programming dreams come true :)
